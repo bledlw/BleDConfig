@@ -1,6 +1,6 @@
 **Terms of Use and Conditions**
 
-Last Updated: *10 August 2025*
+Last Updated: *9 September 2025*
 
 As the developer of **BleDConfig**, I establish these Terms of Use and Conditions ("Terms") to govern your use of the app. By downloading, installing, or otherwise using the app, you agree to be bound by these Terms. If you do not agree, please do not use the app.
 
@@ -23,7 +23,7 @@ I am not responsible for misuse or illegal use of Bluetooth functionalities or c
 
 **4. Subscription Payments and Premium Features**
 
-The app offers an auto-renewable monthly subscription ("Subscription") that unlocks all premium features.  
+The app offers an auto-renewable monthly subscription ("Subscription") that unlocks all premium features.
 - Payment is processed through your Apple ID.
 - The Subscription renews automatically unless canceled at least 24 hours before the current cycle’s end.
 - You may manage or cancel your Subscription in your Apple ID account settings.
@@ -47,30 +47,23 @@ You agree:
 - Not to attempt unauthorized access to the app or connected devices.
 - To comply with all applicable laws and regulations.
 
-**8. Account Management & Data**
+**8. Data Privacy**
 
-- You can create and delete your account via the app at any time.
-- Deleting your account will remove all local data, including **BLEDDevices** you created.
-- Uninstalling the app deletes all local Bluetooth device data.
-
-**9. Data Privacy & Analytics**
-
-- The app uses Firebase (FirebaseCore and FirebaseAuth) only for authentication via SignInWithApple.
-- Firebase may collect crash reports, analytics, and performance data to help improve the app.
+- No third-party analytics, authentication, or storage services are used.
 - No remote storage or collection of your Bluetooth device data occurs.
 - Your privacy is my priority, and I do not sell or share your data with third parties.
 
-**10. Intellectual Property Rights**
+**9. Intellectual Property Rights**
 
 All content, features, and technology of the app are owned by me. You are granted a limited, non-exclusive license to use the app for personal use according to these Terms.
 
-**11. Warranties and Disclaimers**
+**10. Warranties and Disclaimers**
 
 - I provide the app "as is" with no warranties of any kind.
 - I do not guarantee error-free operation, uninterrupted service, or that the app will meet your needs.
 - Use of the app is at your own risk.
 
-**12. Liability Limitations**
+**11. Liability Limitations**
 
 To the maximum extent permitted by law, I am not liable for:
 - Any damages arising from use or inability to use the app.
@@ -78,11 +71,11 @@ To the maximum extent permitted by law, I am not liable for:
 - Data loss, hardware damage, or personal injury related to app use.
 - Any issues resulting from Bluetooth connectivity or hardware incompatibility.
 
-**13. Changes to Terms**
+**12. Changes to Terms**
 
 I may update these Terms at any time. Changes are effective immediately upon posting. Continued use after updates indicates your acceptance.
 
-**14. Contact**
+**13. Contact**
 
 If you have questions about these Terms, contact me at: **bled.lw@protonmail.com**
 
