@@ -1,6 +1,6 @@
 **Terms of Use and Conditions**
 
-Last Updated: *9 September 2025*
+Last Updated: *01 December 2025*
 
 As the developer of **BleDConfig**, I establish these Terms of Use and Conditions ("Terms") to govern your use of the app. By downloading, installing, or otherwise using the app, you agree to be bound by these Terms. If you do not agree, please do not use the app.
 
@@ -23,7 +23,7 @@ I am not responsible for misuse or illegal use of Bluetooth functionalities or c
 
 **4. Subscription Payments and Premium Features**
 
-The app offers an auto-renewable monthly subscription ("Subscription") that unlocks all premium features.
+The app offers an auto-renewable monthly subscription ("Subscription") that unlocks all premium features.  
 - Payment is processed through your Apple ID.
 - The Subscription renews automatically unless canceled at least 24 hours before the current cycle’s end.
 - You may manage or cancel your Subscription in your Apple ID account settings.
@@ -32,7 +32,7 @@ The app offers an auto-renewable monthly subscription ("Subscription") that unlo
 **5. Free Features**
 
 - Some features are available freely but are limited compared to those available through a paid Subscription.
-- You are entitled to 1 free **BleDDevice** and 1 free **BleDControl**.
+- You are entitled to 1 free **BleDController** and 3 free **BleDControls**.
 
 **6. Refunds and Payment**
 
@@ -47,23 +47,30 @@ You agree:
 - Not to attempt unauthorized access to the app or connected devices.
 - To comply with all applicable laws and regulations.
 
-**8. Data Privacy**
+**8. Account Management & Data**
 
-- No third-party analytics, authentication, or storage services are used.
+- You can create and delete your account via the app at any time.
+- Deleting your account will remove all local data, including local **BLEDControllers** you created.
+- Uninstalling the app deletes all local Bluetooth device data.
+
+**9. Data Privacy & Analytics**
+
+- The app uses Firebase (FirebaseCore and FirebaseAuth) only for authentication via SignInWithApple.
+- Firebase may collect crash reports, analytics, and performance data to help improve the app.
 - No remote storage or collection of your Bluetooth device data occurs.
 - Your privacy is my priority, and I do not sell or share your data with third parties.
 
-**9. Intellectual Property Rights**
+**10. Intellectual Property Rights**
 
 All content, features, and technology of the app are owned by me. You are granted a limited, non-exclusive license to use the app for personal use according to these Terms.
 
-**10. Warranties and Disclaimers**
+**11. Warranties and Disclaimers**
 
 - I provide the app "as is" with no warranties of any kind.
 - I do not guarantee error-free operation, uninterrupted service, or that the app will meet your needs.
 - Use of the app is at your own risk.
 
-**11. Liability Limitations**
+**12. Liability Limitations**
 
 To the maximum extent permitted by law, I am not liable for:
 - Any damages arising from use or inability to use the app.
@@ -71,11 +78,11 @@ To the maximum extent permitted by law, I am not liable for:
 - Data loss, hardware damage, or personal injury related to app use.
 - Any issues resulting from Bluetooth connectivity or hardware incompatibility.
 
-**12. Changes to Terms**
+**13. Changes to Terms**
 
 I may update these Terms at any time. Changes are effective immediately upon posting. Continued use after updates indicates your acceptance.
 
-**13. Contact**
+**14. Contact**
 
 If you have questions about these Terms, contact me at: **bled.lw@protonmail.com**
 
